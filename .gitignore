@@ -1,0 +1,11 @@
+__pycache__
+*.tar
+build-output/
+*.onnx
+*.pth
+*.pkl
+*.axmodel
+compiled*
+tmp/
+SmolLM3-3B/
+SmolLM3-3B_axmodel/
